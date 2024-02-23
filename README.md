@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Snehalscode
-- 👀 I’m interested in cyber security 
+How is it used?
 
-<!---
-Snehalscode/Snehalscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+The terrible consequences of drunk driving and the need to address this issue in our society served as the impetus for SafeRouteGuardian. A service called SafeRouteGuardian uses a combination of audio and facial recognition technology to assess a person's sobriety. This lets us determine if they are competent to operate a vehicle.
+
+Features
+
+Two steps are available in SafeRouteGuardian to detect soberity
+
+First, we trained a face test from scratch using a dataset of both sober and intoxicated individuals.
+Secondly, to determine whether a user is slurring, we examined spectrograms and applied an algorithm known as the Levinshtein distance.
